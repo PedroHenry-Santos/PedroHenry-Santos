@@ -112,6 +112,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/Email-Pedro%20Santos-red?style=social&logo=gmail&logoColor=red)](https://malito:pedrohenry.viana@gmail.com/)
 
 </div>
+
 <div style="float: right;">
 
 ![Visits Badge](https://badges.pufler.dev/visits/Pedrohenry-Santos/PedroHenry-Santos)

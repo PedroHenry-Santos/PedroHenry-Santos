@@ -23,8 +23,12 @@
   [![Linkedin Badge](https://img.shields.io/badge/-Instagram-ED4956?style=flat&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.instagram.com/pedrohenry_101/)
 
   </div>
+  
+  <br/>
 
-  #### 📊 GitHub Stats
+  ### 📊 GitHub Stats
+  
+  <br/>
 
   <div align="center" style="border: 1px solid #6390DD;padding: 20px; border-radius: 8px ">
 
@@ -33,8 +37,12 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&count_private=true&show_icons=true)
 
   </div>
+  
+  <br/>
 
-  #### :paperclip: Latest Projects
+  ### :paperclip: Latest Projects
+  
+  <br/>
 
   <div align="center" style="border: 1px solid #6390DD;padding: 20px; border-radius: 8px ">
 
@@ -44,8 +52,12 @@
 
   <p style="font-size: 14px; color: #6390DD">Do you like any of my projects? Consider giving it a star.</p>
   </div>
+  
+  <br/>
 
-  #### 🧰 Skills
+  ### 🧰 Skills
+  
+  <br/>
 
   <div style="border: 1px solid #6390DD;padding: 20px 100px; border-radius: 8px ">
 
@@ -62,6 +74,8 @@
 
   <details close align="center"  >
   <summary style="color: #6390DD">More skills:</summary>
+    
+  <br/>
 
   ![Linkedin Badge](https://img.shields.io/badge/-NodeJS-1C6E00?style=flat&logo=node.js&logoColor=white)
   ![Linkedin Badge](https://img.shields.io/badge/-Linux-000000?style=flat&logo=Linux&logoColor=white)
@@ -71,7 +85,7 @@
   ![Linkedin Badge](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express&logoColor=white)
   ![Linkedin Badge](https://img.shields.io/badge/-Firebase-2D73E8?style=flat&logo=Firebase&logoColor=FACB30)
 
-  <div style="height: 1px; background: #D0D0D0; margin-bottom: 20px"></div>
+ <br/>
 
   ![Linkedin Badge](https://img.shields.io/badge/-CSS3-3492CB?style=flat&logo=CSS3&logoColor=white)
   ![Linkedin Badge](https://img.shields.io/badge/-HTML5-F55722?style=flat&logo=HTML5&logoColor=white)
@@ -80,35 +94,35 @@
   ![Linkedin Badge](https://img.shields.io/badge/-Framer--motion-B70DFF?style=flat&logo=SASS&logoColor=white)
   ![Linkedin Badge](https://img.shields.io/badge/-Lottie-43D1C1?style=flat&logo=Airbnb&logoColor=white)
 
-  <div style="height: 1px; background: #D0D0D0; margin-bottom: 20px"></div>
+  <br/>
 
   ![Linkedin Badge](https://img.shields.io/badge/-ESLint-614BCA?style=flat&logo=ESLint&logoColor=white)
   ![Linkedin Badge](https://img.shields.io/badge/-Prettier-C596C7?style=flat&logo=Prettier&logoColor=white)
   ![Linkedin Badge](https://img.shields.io/badge/-Editor--config-E0EFEF?style=flat&logo=EditorConfig&logoColor=black)
   ![Linkedin Badge](https://img.shields.io/badge/-semantic--release-2F70D7?style=flat&logo=semantic-release&logoColor=white)
 
-  <div style="height: 1px; background: #D0D0D0; margin-bottom: 20px"></div>
+  <br/>
 
   ![Linkedin Badge](https://img.shields.io/badge/-NPM-D32D1C?style=flat&logo=npm&logoColor=white)
   ![Linkedin Badge](https://img.shields.io/badge/-YARN-2F8EBB?style=flat&logo=yarn&logoColor=white)
-
-  <div style="height: 1px; background: #D0D0D0; margin-bottom: 20px"></div>
+    
+  <br/>
 
   ![Linkedin Badge](https://img.shields.io/badge/-Figma-EA4C1D?style=flat&logo=figma&logoColor=white)
   ![Linkedin Badge](https://img.shields.io/badge/-Adob--Illustrator-F47C17?style=flat&logo=Adobe-Illustrator&logoColor=white)
   ![Linkedin Badge](https://img.shields.io/badge/-Adobe--Afte--Effects-050058?style=flat&logo=Adobe-After-Effects&logoColor=white)
 
-  <div style="height: 1px; background: #D0D0D0; margin-bottom: 20px"></div>
+  <br/>
 
   ![Linkedin Badge](https://img.shields.io/badge/-Insomnia-5800CF?style=flat&logo=Insomnia&logoColor=white)
   ![Linkedin Badge](https://img.shields.io/badge/-VSCode-2B7ACB?style=flat&logo=Visual-Studio-Code&logoColor=white)
 
-  <div style="height: 1px; background: #D0D0D0; margin-bottom: 20px"></div>
+  <br/>
 
   ![Linkedin Badge](https://img.shields.io/badge/-Git-F54D27?style=flat&logo=Git&logoColor=white)
   ![Linkedin Badge](https://img.shields.io/badge/-GitHub-1B1F23?style=flat&logo=GitHub&logoColor=white)
 
-  <div style="height: 1px; background: #D0D0D0; margin-bottom: 20px"></div>
+  <br/>
 
   ![Linkedin Badge](https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white)
   ![Linkedin Badge](https://img.shields.io/badge/-Trello-2965DF?style=flat&logo=Trello&logoColor=white)
@@ -117,7 +131,8 @@
 
   </div>
 
-  ### :mailbox: How to reach me
+<br/>
+ 
 
   <div align="center">
 

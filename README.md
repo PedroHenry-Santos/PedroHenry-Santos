@@ -6,7 +6,7 @@
   <h2 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,  I'm Pedro! 👨‍💻
   </h2>
-  <a href="https://www.linkedin.com/in/nayalla-lima/">
+  <a href="https://www.linkedin.com/in/pedro-henry-santos/">
   <p align='center'> Developer from Uberaba - MG, Brazil.
   <p align='center'>
   </a>
@@ -19,8 +19,8 @@
 
 
 
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/pedro-santos-2a4056163)
-  [![Linkedin Badge](https://img.shields.io/badge/-Instagram-ED4956?style=flat&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.instagram.com/pedrohenry_101/)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henry-santos/)](https://www.linkedin.com/in/pedro-henry-santos/)
+  [![Linkedin Badge](https://img.shields.io/badge/-Instagram-ED4956?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/pedrohenry_101/)](https://www.instagram.com/pedrohenry_101/)
 
   </div>
   

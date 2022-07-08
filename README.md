@@ -10,10 +10,6 @@
   <p align='center'>
   </a>
 
-
-
-
-
   <div align="center">
 
 
@@ -33,7 +29,7 @@
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHenry-Santos&count_private=true&show_icons=true&theme=tokyonight)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenry-Santos&layout=compact&theme=tokyonight&count_private=true&show_icons=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenry-Santos&layout=compact&theme=tokyonight&count_private=true&show_icons=true&langs_count=8&cache_seconds=3600)
 
   </div>
   

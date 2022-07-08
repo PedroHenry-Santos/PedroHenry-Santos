@@ -147,7 +147,8 @@
 
   [![Linkedin Badge](https://img.shields.io/badge/Email-Pedro%20Santos-red?style=social&logo=gmail&logoColor=red)](https://malito:pedrohenry.viana@gmail.com/)
   
-  ![Commits Snack](https://raw.githubusercontent.com/PedroHenry-Santos/PedroHenry-Santos/output/github-snake-dark.svg)
+  ![Commits Snack Light](https://raw.githubusercontent.com/PedroHenry-Santos/PedroHenry-Santos/output/github-snake.svg#gh-light-mode-only)
+  ![Commits Snack Dark](https://raw.githubusercontent.com/PedroHenry-Santos/PedroHenry-Santos/output/github-snake-dark.svg#gh-dark-mode-only)
 
 
 

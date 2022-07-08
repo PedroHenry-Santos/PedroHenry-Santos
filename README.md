@@ -18,12 +18,12 @@
   ### 📊 GitHub Stats
   
   <br/>
-  
+    
   <center>
     <table border="0">
       <tr>
         <td colspan="2" align="center">
-          <img width="600px" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=PedroHenry-Santos&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"/>
+          <img width="600px" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=PedroHenry-Santos&theme=tokyonight"/>
         </td>
       </tr>
       <tr>

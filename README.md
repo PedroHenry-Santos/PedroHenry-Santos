@@ -72,6 +72,7 @@
   ![Linkedin Badge](https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=orange)
   ![Linkedin Badge](https://img.shields.io/badge/-JavaScript-EAD41C?style=flat&logo=Javascript&logoColor=black)
   ![Linkedin Badge](https://img.shields.io/badge/-ReactJS-5FD4E1?style=flat&logo=react&logoColor=blue)
+  ![Linkedin Badge](https://img.shields.io/badge/-VueJS-33A06F?style=flat&logo=vue.js&logoColor=darkgreen)
   ![Linkedin Badge](https://img.shields.io/badge/-NextJS-000000?style=flat&logo=next.js&logoColor=white)
   ![Linkedin Badge](https://img.shields.io/badge/-TypeScript-3178C7?style=flat&logo=typescript&logoColor=white)
   ![Linkedin Badge](https://img.shields.io/badge/-Python-3E7BAC?style=flat&logo=Python&logoColor=white)

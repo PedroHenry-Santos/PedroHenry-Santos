@@ -88,11 +88,15 @@
   ![Linkedin Badge](https://img.shields.io/badge/-NodeJS-1C6E00?style=flat&logo=node.js&logoColor=white)
   ![Linkedin Badge](https://img.shields.io/badge/-Swagger-82E254?style=flat&logo=Swagger&logoColor=black)
   ![Linkedin Badge](https://img.shields.io/badge/-Linux-000000?style=flat&logo=Linux&logoColor=white)
-  ![Linkedin Badge](https://img.shields.io/badge/-C--ANSI-808080?style=flat&logo=C&logoColor=white)
+  ![Linkedin Badge](https://img.shields.io/badge/-C--ANSI-808080?style=flat&logo=C++&logoColor=white)
+  ![Linkedin Badge](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C&logoColor=white)
   ![Linkedin Badge](https://img.shields.io/badge/-Docker-163F8C?style=flat&logo=Docker&logoColor=white)
+  ![Linkedin Badge](https://img.shields.io/badge/-MySQL-FFFFFF?style=flat&logo=MySQL)
   ![Linkedin Badge](https://img.shields.io/badge/-Redis-A51F17?style=flat&logo=Redis&logoColor=white)
+  ![Linkedin Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
   ![Linkedin Badge](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express&logoColor=white)
   ![Linkedin Badge](https://img.shields.io/badge/-Firebase-2D73E8?style=flat&logo=Firebase&logoColor=FACB30)
+  ![Linkedin Badge](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white)
 
  <br/>
 
@@ -101,6 +105,7 @@
   ![Linkedin Badge](https://img.shields.io/badge/-Sass-BF4081?style=flat&logo=SASS&logoColor=white)
   ![Linkedin Badge](https://img.shields.io/badge/-Styled--components-3B3B3B?style=flat&logo=styled-components&logoColor=CB74BC)
   ![Linkedin Badge](https://img.shields.io/badge/-Chakra_UI-319795?style=flat&logo=ChakraUI&logoColor=white)
+  ![Linkedin Badge](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=Redux&logoColor=white)
   ![Linkedin Badge](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white)
   ![Linkedin Badge](https://img.shields.io/badge/-Framer--motion-B70DFF?style=flat&logo=SASS&logoColor=white)
   ![Linkedin Badge](https://img.shields.io/badge/-Lottie-43D1C1?style=flat&logo=Airbnb&logoColor=white)

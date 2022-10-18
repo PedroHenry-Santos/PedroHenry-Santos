@@ -86,6 +86,7 @@
   <br/>
 
   ![Linkedin Badge](https://img.shields.io/badge/-NodeJS-1C6E00?style=flat&logo=node.js&logoColor=white)
+  ![Linkedin Badge](https://img.shields.io/badge/-Swagger-82E254?style=flat&logo=Swagger&logoColor=black)
   ![Linkedin Badge](https://img.shields.io/badge/-Linux-000000?style=flat&logo=Linux&logoColor=white)
   ![Linkedin Badge](https://img.shields.io/badge/-C--ANSI-808080?style=flat&logo=C&logoColor=white)
   ![Linkedin Badge](https://img.shields.io/badge/-Docker-163F8C?style=flat&logo=Docker&logoColor=white)

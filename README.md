@@ -167,7 +167,9 @@
 
 
 
-  <img align="right" src="https://badges.pufler.dev/visits/Pedrohenry-Santos/PedroHenry-Santos?color=blue" alt="Visitors badge" />
+  <img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FPedroHenry-Santos%2FPedroHenry-Santos&countColor=%23263759&style=flat&labelStyle=upper" alt="Visitors badge" />
+ 
   <div style="float: right;">
+     
 
 
